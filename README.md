@@ -24,7 +24,7 @@ All simulations use only base R and the `MASS` package (for `mvrnorm()`).
 | File | Description |
 |------|-------------|
 | `FINALGOOD1.R` | Complete script to reproduce the simulation |
-| `flexIC_vs_IC_bias_results.csv` | Summary output of bias and runtime |
+| `flexIC_vs_IC_bias_results.csv` | Summary output of bias, runtime, and redraws |
 | `LICENSE.md` | MIT License |
 | `README.md` | This file |
 
