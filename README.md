@@ -3,7 +3,7 @@
 This repository contains the simulation materials associated with the manuscript:
 
 > **flexIC: A Tunable Extension of the Iman–Conover Procedure for Marginal-Preserving Correlated Simulation in R**  
-> Submitted to *Behavior Research Methods* 
+> Submitted to *Behavior Research Methods* (BR-Org-25-581)
 
 ---
 
